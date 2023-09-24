@@ -30,9 +30,7 @@
 
 ---
 
-### My stat
-<div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laramozg&theme=github_dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=laramozg&theme=github_dark" alt=""/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=laramozg&theme=github_dark" alt=""/>
-</div>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=laramozg&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laramozg&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/laramozg) 
+
+---
