@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ---
 
-### Skills
+## Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@
 
 ---
 
-### Contacts
+## Contacts
 <p align="left">
   <a href="https://vk.com/mozgovayaya" target="_blank" rel="noreferrer"> <img align="left" alt="VK" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg"/> </a>
    <a href="https://t.me/mozgowayaya" target="_blank" rel="noreferrer"> <img align="left" alt="Telegram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png"/></a>
