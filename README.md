@@ -1,10 +1,10 @@
 <div align="center">
   <h1>
   Hey there
-  <img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="30px"/>
+  <img src="https://media.tenor.com/pyZZu3A1BiIAAAAd/cat-on-keyboard-cat-keyboard.gif" width="60px"/>
 </h1>
 <div id="header">
-  <img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="200"/>
+  <img src="https://media.tenor.com/pyZZu3A1BiIAAAAd/cat-on-keyboard-cat-keyboard.gif" width="400"/>
 </div>
 </div>
 <div>
