@@ -1,11 +1,11 @@
 <div align="center">
-<div id="header">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-</div>
-<h1>
+  <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="30px"/>
 </h1>
+<div id="header">
+  <img src="https://media.tenor.com/oS5SFKhlWYwAAAAd/angry-cat.gif" width="200"/>
+</div>
 </div>
 <div>
 
@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+
 
 ## Contacts
 <p align="left">
@@ -35,10 +35,8 @@
 </p>
 </br>
 </br>
-
----
+</br>
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=laramozg&show_icons=true&count_private=true&theme=gotham&border_radius=30&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laramozg&layout=compact&theme=gotham&border_radius=30&hide=pascal,c,jupyter%20notebook)](https://github.com/laramozg) 
 
----
