@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
   Hey there
-  <img src="https://media.tenor.com/pyZZu3A1BiIAAAAd/cat-on-keyboard-cat-keyboard.gif" width="50px"/>
+<!--   <img src="https://media.tenor.com/pyZZu3A1BiIAAAAd/cat-on-keyboard-cat-keyboard.gif" width="50px"/> -->
 </h1>
 <div id="header">
   <img src="https://media.tenor.com/pyZZu3A1BiIAAAAd/cat-on-keyboard-cat-keyboard.gif" width="333"/>
